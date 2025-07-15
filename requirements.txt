@@ -7,4 +7,4 @@ mkdocs-include-dir-to-nav
 mkdocs-git-committers-plugin-2
 mkdocs-redirects
 mkdocs-awesome-pages-plugin
-mkdocs-nav-weight
+mkdocs-nav-weightls
