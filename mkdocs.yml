@@ -1,1 +1,17 @@
-site_name: My Docs
+site_name: MicoDOCS
+site_url: https://micodesit.github.io/MicoDocs/
+site_author: micodesit
+repo_name: micodesit/MicoDocs
+repo_url: https://github.com/micodesit/MicoDocs
+
+theme:
+  name: material
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+  features:
+    - content.code.copy
+    - content.code.annotate
+
+nav:
+  - Home: index.md
